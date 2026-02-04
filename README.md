@@ -1,2 +1,3 @@
-# MAGANH
+# MAGANG
+
 tugas semasa magang
