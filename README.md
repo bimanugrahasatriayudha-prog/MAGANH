@@ -1,0 +1,2 @@
+# MAGANH
+tugas semasa magang
