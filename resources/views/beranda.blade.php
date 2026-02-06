@@ -1003,7 +1003,7 @@
                 </div>
             </div>
             <div style="text-align: center;">
-                <a href="#" class="btn-primary">Lihat Semua Program →</a>
+                <a href="ProgramStudi" class="btn-primary">Lihat Semua Program →</a>
             </div>
         </div>
     </section>
