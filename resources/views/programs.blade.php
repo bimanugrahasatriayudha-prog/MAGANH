@@ -823,8 +823,8 @@
     <footer>
         <div class="footer-content">
             <p>&copy; 2026 Politeknik NSC Surabaya. All rights reserved.</p>
-            <p>Jl. Raya Surabaya No. 123, Sukolilo, Surabaya 60111</p>
+            <p>Jl. Basuki Rahmat No.85, Surabaya 60271</p>
         </div>
     </footer>
 </body>
-</html>
+</html>    
